@@ -1,6 +1,6 @@
-# API Server Guide
+# SKYGOALTECH API Server Guide
 
-Welcome to the API Server guide! This README file will help you get started with running the server and testing its endpoints using Postman and cURL.
+Welcome to the  SKYGOALTECH API Server guide! This README file will help you get started with running the server and testing its endpoints using Postman and cURL.
 
 ## Starting the Server
 
